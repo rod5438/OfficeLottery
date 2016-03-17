@@ -16,6 +16,7 @@
 		9677D9361C97E605006D733C /* OfficeLotteryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9677D9351C97E605006D733C /* OfficeLotteryTests.m */; };
 		9677D9411C97E605006D733C /* OfficeLotteryUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9677D9401C97E605006D733C /* OfficeLotteryUITests.m */; };
 		96F1A97B1C998F7A009535CD /* LaunchScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 96F1A97A1C998F7A009535CD /* LaunchScreen.png */; };
+		96F1A9831C9A44FC009535CD /* appIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 96F1A9821C9A44FC009535CD /* appIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		9677D9401C97E605006D733C /* OfficeLotteryUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OfficeLotteryUITests.m; sourceTree = "<group>"; };
 		9677D9421C97E605006D733C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96F1A97A1C998F7A009535CD /* LaunchScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LaunchScreen.png; sourceTree = "<group>"; };
+		96F1A9821C9A44FC009535CD /* appIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 		96F1A9791C998F7A009535CD /* image */ = {
 			isa = PBXGroup;
 			children = (
+				96F1A9821C9A44FC009535CD /* appIcon.png */,
 				96F1A97A1C998F7A009535CD /* LaunchScreen.png */,
 			);
 			path = image;
@@ -258,6 +261,7 @@
 				9677D9281C97E605006D733C /* Assets.xcassets in Resources */,
 				96F1A97B1C998F7A009535CD /* LaunchScreen.png in Resources */,
 				9677D9261C97E605006D733C /* Main.storyboard in Resources */,
+				96F1A9831C9A44FC009535CD /* appIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
